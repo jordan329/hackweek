@@ -1,0 +1,63 @@
+#Binaries/Frameworks
+
+git
+
+Node 10
+
+Python2.7
+
+Python3
+
+Java8
+
+                Maven
+
+                Gradle
+
+                Ant
+
+golang
+
+dotnet-sdk2.1
+
+                Mono (MacOS only)
+
+ 
+
+AWSCLI
+
+serverless (sls)[npm package]
+
+aws sam [MacOS only] (npm or python I think)
+
+ 
+
+#Gui Tools
+
+vscode
+
+GitKraken
+
+postman
+
+ 
+
+#Setup
+
+aws configure
+
+dotnet new -i Amazon.Lambda.Templates::*
+
+dotnet new serverless.AspNetCoreWebAPI -o dotnet-api-example
+
+dotnet new serverless.AspNetCoreWebApp -o dotnet-web-app-example
+
+ 
+
+ 
+
+npm install -g serverless
+
+sudo apt install awscli -y
+
+sudo apt install golang-go -y

@@ -1,0 +1,14 @@
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\bin\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.deps.json
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\bin\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.runtimeconfig.json
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\bin\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.runtimeconfig.dev.json
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\bin\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.dll
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\bin\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.pdb
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.csprojAssemblyReference.cache
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.csproj.CoreCompileInputs.cache
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.RazorAssemblyInfo.cache
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.RazorAssemblyInfo.cs
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.AssemblyInfoInputs.cache
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.AssemblyInfo.cs
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.RazorTargetAssemblyInfo.cache
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.dll
+C:\Users\Jliebman\Desktop\hackweek\api\dotnet-api-example\src\dotnet-api-example\obj\Release\netcoreapp2.1\rhel.7.2-x64\dotnet-api-example.pdb
