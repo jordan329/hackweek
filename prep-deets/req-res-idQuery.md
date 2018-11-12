@@ -1,6 +1,6 @@
 below is the url ready for front end use. [ChIJk8cmpsa33IcRbKLpDn3le4g] being an example get request
 https://xqgy0d8a3l.execute-api.us-east-1.amazonaws.com/Prod/details/ChIJk8cmpsa33IcRbKLpDn3le4g
-
+```
 {
    "html_attributions" : [],
    "result" : {
@@ -300,3 +300,4 @@ https://xqgy0d8a3l.execute-api.us-east-1.amazonaws.com/Prod/details/ChIJk8cmpsa3
    },
    "status" : "OK"
 }
+```
