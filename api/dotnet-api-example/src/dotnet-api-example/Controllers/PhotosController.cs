@@ -15,7 +15,7 @@ namespace gplaces_api.Controllers
         [HttpGet("{photo}")]
         public ActionResult<string> Get(string photo)
         {
-            var res = DetailsCaller.call(photo);
+            var res = PhotosCaller.call(photo);
             res.Wait();
             return res.Result;
         }
